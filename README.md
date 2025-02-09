@@ -1,8 +1,32 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Ameer Sohail Shaik</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h3 align="left">A Data Scientist in Making... :)</h3>
+
+###
+
+<h2 align="left">💫 About Me:</h2>
+
+###
+
+<p align="left">🌱 I’m currently working as AI Development Trainee at Proceedit with Time-Series Analysis and Forecasting experience<br><br>📫 How to reach me skameesohail148@gmail.com</p>
+
+###
+
+<h2 align="left">🌐 Socials:</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ameer-sohail-shaik-9a6309202/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">💻 Tech Stack:</h2>
 
 ###
 
@@ -56,13 +80,6 @@
 
 ###
 
-<div align="left">
-  <a href="skameersohail148@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ameer-sohail-shaik-9a6309202/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<h2 align="left">📊 GitHub Stats:</h2>
 
 ###
