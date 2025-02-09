@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! I am Ameer Sohail Shaik</h2>
+<h2 align="center">Hi 👋! I am Ameer Sohail Shaik</h2>
 
 ###
 
-<h3 align="left">A Data Scientist in Making... :)</h3>
+<h3 align="center">A Data Scientist in Making... :)</h3>
 
 ###
 
