@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohail-5678&label=Profile%20views&color=0e75b6&style=flat" alt="sohail-5678" /> </p>
 
-- 🔭 I’m currently working as **AI Development Trainee**
+- 🔭 I’m currently working as **Machine Learning Engineer**
 
 - at **Proceedit**
 
