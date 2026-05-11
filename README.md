@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohail-5678&label=Profile%20views&color=0e75b6&style=flat" alt="sohail-5678" /> </p>
 
-- 🔭 I’m currently working as **Machine Learning Engineer**
+- 🔭  **Junior Data Scientist** at Proceedit (August 2024 - August 2025)
 
-- at **Proceedit**
-
+- **Data Science Intern** at SBP Consulting Pvt Ltd (January 2024 - May 2024)
 - 📫 How to reach me **skameersohail148@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
